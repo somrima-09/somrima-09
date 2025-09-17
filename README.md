@@ -23,7 +23,6 @@ I am a Final-year B.Tech student at IIT Guwahati, specializing in Chemical Scien
 **Visualization & UI:** Matplotlib, Streamlit charts  
 **Tools & Platforms:** Git, GitHub, VSCode, Jupyter Notebook  
 
-## 🏷 Tags
 `Python` `C++` `JavaScript` `React` `Streamlit` `FastAPI` `Machine Learning` `NLP` `Hugging Face` `Data Visualization` `SQLite` `AI` `Web Development` `Full-Stack` `Wellbeing` `Emotion-Tracking`  
 
 
