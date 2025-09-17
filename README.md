@@ -5,7 +5,7 @@
 I am a Final-year B.Tech student at IIT Guwahati, specializing in Chemical Science & Technology with a strong passion for **Machine Learning, Full-Stack Development**. I build projects that blend **AI, data, and user experience** to solve real-world problems.
 
 
-## 👩‍💻 Current Work
+## 👩‍💻 Work
 - Summer Intern at **upGrad** (AI-driven assessment and AutoGrader tools)
 - May - July, 2025
 
