@@ -4,18 +4,16 @@
 
 I am a 3rd-year B.Tech student at IIT Guwahati, specializing in Chemical Science & Technology with a strong passion for **Machine Learning, Full-Stack Development**. I build projects that blend **AI, data, and user experience** to solve real-world problems.
 
----
 
 ## 👩‍💻 Current Work
 - Summer Intern at **upGrad** (AI-driven assessment and AutoGrader tools)  
 
----
 
 ## 🚀 Projects
 - **CodeSmart**: A full-stack web app for real-time coding practice with AI-driven feedback and contest-style challenges.  
 - **EmoTrack**: An interactive journaling and emotion-tracking application that analyzes moods, visualizes trends, and provides personalized well-being suggestions.  
 
----
+
 
 ## 🛠 Skills & Tech Stack
 **Languages & Frameworks:** Python, C++, JavaScript, React, Streamlit, FastAPI, HTML, CSS  
@@ -23,6 +21,9 @@ I am a 3rd-year B.Tech student at IIT Guwahati, specializing in Chemical Science
 **Databases & Storage:** SQLite, MySQL, CSV  
 **Visualization & UI:** Matplotlib, Streamlit charts  
 **Tools & Platforms:** Git, GitHub, VSCode, Jupyter Notebook  
+
+## 🏷 Tags
+`Python` `C++` `JavaScript` `React` `Streamlit` `FastAPI` `Machine Learning` `NLP` `Hugging Face` `Data Visualization` `SQLite` `AI` `Web Development` `Full-Stack` `Wellbeing` `Emotion-Tracking`  
 
 
 ## Contributions
