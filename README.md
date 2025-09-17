@@ -6,7 +6,8 @@ I am a Final-year B.Tech student at IIT Guwahati, specializing in Chemical Scien
 
 
 ## 👩‍💻 Current Work
-- Summer Intern at **upGrad** (AI-driven assessment and AutoGrader tools)  
+- Summer Intern at **upGrad** (AI-driven assessment and AutoGrader tools)
+  (from May - July, 2025)
 
 
 ## 🚀 Projects
