@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/somrimasaha/)](https://www.linkedin.com/in/somrima-saha-1a7715256/) 
 
-I am a 3rd-year B.Tech student at IIT Guwahati, specializing in Chemical Science & Technology with a strong passion for **Machine Learning, Full-Stack Development**. I build projects that blend **AI, data, and user experience** to solve real-world problems.
+I am a Final-year B.Tech student at IIT Guwahati, specializing in Chemical Science & Technology with a strong passion for **Machine Learning, Full-Stack Development**. I build projects that blend **AI, data, and user experience** to solve real-world problems.
 
 
 ## 👩‍💻 Current Work
