@@ -16,7 +16,7 @@ I am a Final-year B.Tech student at IIT Guwahati, specializing in Chemical Scien
 
 
 
-## 🛠 Skills & Tech Stack
+##  Skills & Tech Stack
 **Languages & Frameworks:** Python, C++, JavaScript, React, Streamlit, FastAPI, HTML, CSS  
 **Machine Learning & NLP:** Hugging Face Transformers, Pandas, Scikit-learn  
 **Databases & Storage:** SQLite, MySQL, CSV  
@@ -37,5 +37,5 @@ I am a Final-year B.Tech student at IIT Guwahati, specializing in Chemical Scien
 
 
 
-## 📫 Contact Me
+##  Contact Me
 - Email: [somrima99@gmail.com](mailto:somrima99@gmail.com)  
